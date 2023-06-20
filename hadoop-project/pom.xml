@@ -361,7 +361,7 @@
       <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <version>11.0.2</version>
+        <version>32.0.0-android</version>
       </dependency>
       <dependency>
         <groupId>com.google.code.gson</groupId>
@@ -883,7 +883,7 @@
      <dependency>
        <groupId>org.apache.curator</groupId>
        <artifactId>curator-recipes</artifactId>
-       <version>2.6.0</version>
+       <version>2.9.0</version>
      </dependency>
      <dependency>
        <groupId>org.apache.curator</groupId>
