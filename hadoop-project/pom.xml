@@ -63,7 +63,7 @@
 
     <!-- jackson versions -->
     <jackson.version>1.9.13</jackson.version>
-    <jackson2.version>2.14.1</jackson2.version>
+    <jackson2.version>2.15.0</jackson2.version>
 
     <!-- ProtocolBuffer version, used to verify the protoc version and -->
     <!-- define the protobuf JAR version                               -->
@@ -871,7 +871,7 @@
       <dependency>
         <groupId>com.microsoft.windowsazure.storage</groupId>
         <artifactId>microsoft-windowsazure-storage-sdk</artifactId>
-        <version>0.6.0</version>
+        <version>1.1.0</version>
      </dependency>
 
      <dependency>
